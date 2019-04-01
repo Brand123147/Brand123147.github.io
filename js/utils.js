@@ -1,7 +1,4 @@
-/**
- * created by lvfan
- * 2018-09-04
- */
+
 
 /**
  * @description 获取实时时间，写入 id 为 now-time 的标签中
@@ -57,6 +54,5 @@
             }
         }
     }, false);
-    // 初始化页面状态
-    // doc.title = '吕钒的后花园';
+ 
 }());
